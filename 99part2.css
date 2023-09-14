@@ -1,0 +1,43 @@
+body {
+    background-color: #092327;
+}
+
+h1 {
+    font-family: monospace;
+    color: #00A9A5;
+    font-size: 6em;
+    text-align: center;
+}
+
+button {
+    background-color: #0B5351;
+    font-family: monospace;
+    border: none;
+    display: flex;
+    text-align: center;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 25px;
+    flex-direction: column-reverse;
+}
+  
+h3 {
+    font-family: monospace;
+    color:#00A9A5;
+    text-align: center;
+    font-size: 2em;
+
+}
+
+.friend {
+    font-family: monospace;
+    color:#00A9A5;
+    font-size: 1em;
+    justify-content: center;
+}
+
+#buttonHolder{
+    display: flex;
+    justify-content: center;
+}
